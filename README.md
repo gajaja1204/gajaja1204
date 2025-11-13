@@ -36,8 +36,6 @@ Mi objetivo es combinar mi formación en hardware de bajo nivel con habilidades 
 
 ## 🌱 En qué estoy trabajando
 
-[* 👨‍💻 Actualmente estoy desarrollando mi **[Nombre del Proyecto 1]**, un [breve descripción, ej: 'script en Python para automatizar tareas de enumeración en auditorías'].]
-[* 📚 Profundizando en [Tecnología, ej: 'técnicas de hacking de hardware'] y [Plataforma, ej: 'HackTheBox'].]
 * 💡 Buscando colaborar en proyectos *open-source* relacionados con la seguridad en IoT.
 
 ---
